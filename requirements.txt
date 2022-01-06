@@ -1,6 +1,0 @@
-In Ubuntu , Linux Mint , Debian 
-sudo apt-get install nmap -y 
-Manjaro 
-sudo pacman -Ss nmap 
-Fedora 
-sudo yum install nmap 
